@@ -21,10 +21,10 @@
 
 <div>
     
-##   <p align="left">👨🏻‍💻 Technologies That I Know </p>
+##   <p align="left">Technologies That I Know </p>
   
 </div>
-<!--tech stack icons-->
+<!--tech stack icons👨🏻‍💻 -->
 <p align="center">
   <a href="https://skillicons.dev">
     
