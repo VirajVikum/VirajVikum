@@ -87,7 +87,7 @@
 </div>
 <br>
 
-##  <p align="center"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px height = 50px> &nbsp;  </picture>Github Status  </p>
+##  <p align="left"> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px height = 50px> &nbsp;  </picture>Github Status  </p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
