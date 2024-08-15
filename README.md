@@ -21,7 +21,7 @@
 
 <div>
     
-##   <p align="center"> Technologies That I Know👨🏻‍💻 </p>
+##   <p align="left">👨🏻‍💻 Technologies That I Know </p>
   
 </div>
 <!--tech stack icons-->
