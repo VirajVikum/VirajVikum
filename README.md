@@ -13,7 +13,7 @@
 
 - :nerd_face: Always `learning new things`.
 
-- 💬 Ask me about **Laravel , Livewire , React**
+- 💬 Ask me about **Laravel , Livewire**
 
 - 📫 How to reach me **virajvikum99@gmail.com**
 
