@@ -22,7 +22,7 @@
 
 <div>
     
-##   <p align="left">Technologies That I Know </p>
+##   <p align="left">Technologies I have used</p>
   
 </div>
 <!--tech stack icons👨🏻‍💻 -->
