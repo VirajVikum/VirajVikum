@@ -104,7 +104,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=virajvikum&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=11&hide=hack&show=python"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=virajvikum&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8&hide=hack"/>
   
   </td>
 </tr>
