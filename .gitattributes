@@ -1,5 +1,9 @@
-# Force .php files to be recognized as PHP
+# Force everything to PHP if needed
 *.php linguist-language=PHP
+*.hh linguist-language=PHP
+*.hack linguist-language=PHP
 
-# Ignore vendor folder from language stats
+# Ignore vendor, node_modules, tests from stats
 /vendor/* linguist-vendored
+/node_modules/* linguist-vendored
+/tests/* linguist-vendored
