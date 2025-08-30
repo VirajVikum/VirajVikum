@@ -1,0 +1,5 @@
+# Force .php files to be recognized as PHP
+*.php linguist-language=PHP
+
+# Ignore vendor folder from language stats
+/vendor/* linguist-vendored
