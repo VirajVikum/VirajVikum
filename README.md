@@ -127,7 +127,7 @@
 
 
 </p>        
-<!--- stats(end) -->
+<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
