@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [call-center-System](https://github.com/achinthau/ausochub1.0)
 
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love to use Software as a solution for every Problem.
 
 - :nerd_face: Always `learning new things`.
 
