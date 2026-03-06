@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on [call-center-System](https://github.com/achinthau/ausochub1.0)
+- 🔭 I’m currently working on [call-center-System](https://github.com/achinthau/ausochub1.0) & [pbx-System](https://github.com/achinthau/AusoTALK)
 
 - :technologist: I love to use Software as a solution for every Problem.
 
