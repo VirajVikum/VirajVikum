@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c&logoColor=white&color=6aaff8)
 
 
-#### Frontend Development
+#### Frontend Developments
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -51,7 +51,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
-#### Backend Development
+#### Backend Developments
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -63,7 +63,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 
 
-#### Database
+#### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
