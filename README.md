@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [call-center-System](https://github.com/achinthau/ausochub1.0) & [pbx-System](https://github.com/achinthau/AusoTALK)
 
-- :technologist: I love to use Software as a solution for every Problem.
+- :technologist: I love to use Software as a solution for day-to-day problems.
 
 - :nerd_face: Always `learning new things`.
 
