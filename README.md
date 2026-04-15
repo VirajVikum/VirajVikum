@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viraj Vikum</h1>
+<h1 align="center">Hi 👋, I'm Viraj Vikum.</h1>
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=virajvikum&label=Profile%20views&color=0e75b6&style=flat" alt="virajvikum" /> </p>
